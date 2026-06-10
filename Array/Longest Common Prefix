@@ -18,3 +18,4 @@ public:
 if they match we move forward with the second letter of the first word and the second letter of the adjacent word as well
 and if they don't match the amount of times they matched would be our longest common prefix. for e.g [ "Rehan" , "Reyan"] here the longest
 common prefix is 2 [" Re "] as the first and second letter from the words match each other.*/
+Tried improving the execution speed of the code.
